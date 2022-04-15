@@ -1,4 +1,4 @@
-# Comparing an Additve Smoothing Multinomial Naive-Bayes classifier versus Logistic Regression for Detecting fake news 
+# Comparing an Additive Smoothing Multinomial Naive-Bayes classifier versus Logistic Regression for Detecting fake news 
 
 Implemented a fake news classifier as detailed by Katharine Jarmul in her Introduction to Natural Language Processing in Python course on DataCamp and by George McIntire as detaled in his article at [kdnuggets](https://www.kdnuggets.com/2017/04/machine-learning-fake-news-accuracy.html) 
 
