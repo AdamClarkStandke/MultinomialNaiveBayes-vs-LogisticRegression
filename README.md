@@ -12,12 +12,14 @@ Code and analysis can be found in the following file: [code](https://github.com/
 
 # Results:
 
-  * ## Confusion Matrix of Multinomial Naive-Bayes Classifier
-  ![]()
+  * ## Confusion Matrix of Multinomial Naive-Bayes Classifier with Bag of Words feature vectors
+  ![](https://github.com/aCStandke/MultinomialNaiveBayes-vs-LogisticRegression/blob/main/BagOfWords_MultiNB.png)
 
+  * ##  Confusion Matrix of Multinomial Naive-Bayes Classifier with TF-IDF feature vectors
+   ![](https://github.com/aCStandke/MultinomialNaiveBayes-vs-LogisticRegression/blob/main/TfIdf_MultiNB.png)
+   
+  * ##  Confusion Matrix of Additive Smoothing Multinomial Naive-Bayes Classifier with TF-IDF feature vectors
+   ![](https://github.com/aCStandke/MultinomialNaiveBayes-vs-LogisticRegression/blob/main/TfIdf_SmoothMultiNB.png)
 
-  * ##  Confusion Matrix of Additive Smoothing Multinomial Naive-Bayes Classifier
-   ![]()
-
-  * ## Confusion Matrix of Logistic Regression
-   ![]()
+  * ## Confusion Matrix of Logistic Regression with TF-IDF feature vectors
+   ![](https://github.com/aCStandke/MultinomialNaiveBayes-vs-LogisticRegression/blob/main/TfIdf_LogisticRegression.png)
